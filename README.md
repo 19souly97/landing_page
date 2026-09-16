@@ -1,4 +1,4 @@
-# EV Motors Landing Page
+# Landing Page
 
 A beginner-friendly electric vehicle landing page built with React and Vite.
 
@@ -6,7 +6,7 @@ A beginner-friendly electric vehicle landing page built with React and Vite.
 
 Add your deployed website link here after publishing it:
 
-**Live website:** `https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/`
+**Live website:** `https://19souly97.github.io/landing_page/`
 
 ## Basic features
 
@@ -19,9 +19,7 @@ Add your deployed website link here after publishing it:
 ## Repository structure
 
 ```text
-ev-motors-landing-page/
-├── assets/                 # GitHub screenshots and demo files
-├── public/                 # Static files such as the favicon
+tesla_comp/
 ├── src/
 │   ├── components/         # Separate React components
 │   ├── data/               # Vehicle information
